@@ -1,0 +1,14 @@
+﻿.cell {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    font-size: 36pt;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+    .cell:hover {
+        background: #C2DBFC;
+    }
